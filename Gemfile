@@ -16,6 +16,8 @@ end
 group :test do
     gem 'rspec', '2.11.0'
     gem 'webrat', '0.7.3'
+    gem 'ZenTest'
+    gem 'spork'
 end
 
 # Gems used only for assets and not required
@@ -46,3 +48,4 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+#
